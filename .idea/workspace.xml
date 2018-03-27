@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="Project Name">
+    <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pages/intro.html" afterPath="$PROJECT_DIR$/pages/intro.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -126,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522134355761</updated>
-      <workItem from="1522134357283" duration="581000" />
+      <workItem from="1522134357283" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="Naam">
       <created>1522134598659</created>
@@ -142,11 +141,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522134908603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Project Name">
+      <created>1522135067387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522135067387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="581000" />
+    <option name="totallyTimeSpent" value="612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -182,7 +188,8 @@
     <MESSAGE value="BasisData" />
     <MESSAGE value="Naam" />
     <MESSAGE value="PRoject Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="PRoject Name" />
+    <MESSAGE value="Project Name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
