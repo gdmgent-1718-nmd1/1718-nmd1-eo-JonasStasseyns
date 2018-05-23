@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/pages/concurrentie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/concurrentie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/pages.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,20 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="concurrentie.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="concurrentie.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="74" lean-forward="true" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+            <state relative-caret-position="416">
+              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pages.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="416">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -58,9 +59,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pages/css/pages.css" />
         <option value="$PROJECT_DIR$/pages/intro.html" />
         <option value="$PROJECT_DIR$/pages/concurrentie.html" />
+        <option value="$PROJECT_DIR$/pages/css/pages.css" />
       </list>
     </option>
   </component>
@@ -152,7 +153,7 @@
       <workItem from="1525528047459" duration="2257000" />
       <workItem from="1526822495267" duration="614000" />
       <workItem from="1526828463576" duration="319000" />
-      <workItem from="1527079005075" duration="1588000" />
+      <workItem from="1527079005075" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="Naam">
       <created>1522134598659</created>
@@ -186,7 +187,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10915000" />
+    <option name="totallyTimeSpent" value="11630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1429" height="812" extended-state="0" />
@@ -442,13 +443,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Desktop/base16_ocean_light_0.icl" />
-    <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/intro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -458,8 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="74" lean-forward="true" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+        <state relative-caret-position="416">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>

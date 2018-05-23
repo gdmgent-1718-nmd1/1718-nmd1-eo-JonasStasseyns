@@ -21,3 +21,8 @@ img {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+/* START CONCURRENTIEANALYSE*/
+.concur-a {
+    font-size: 1.2em;
+}
