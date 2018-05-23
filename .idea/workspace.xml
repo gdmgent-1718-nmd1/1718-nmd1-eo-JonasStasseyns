@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/intro.html" afterDir="false" />
-    </list>
+    <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="intro.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/intro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="156" lean-forward="true" selection-start-line="29" selection-start-column="156" selection-end-line="29" selection-end-column="156" />
+            <state>
+              <caret selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -83,9 +81,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
     <option name="y" value="23" />
-    <option name="width" value="1420" />
+    <option name="width" value="1429" />
     <option name="height" value="812" />
   </component>
   <component name="ProjectView">
@@ -98,18 +95,12 @@
           <expand>
             <path>
               <item name="1718-nmd1-eo-JonasStasseyns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1718-nmd1-eo-JonasStasseyns" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1718-nmd1-eo-JonasStasseyns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1718-nmd1-eo-JonasStasseyns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1718-nmd1-eo-JonasStasseyns" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="1718-nmd1-eo-JonasStasseyns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1718-nmd1-eo-JonasStasseyns" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="1718-nmd1-eo-JonasStasseyns" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +150,7 @@
       <workItem from="1525528047459" duration="2257000" />
       <workItem from="1526822495267" duration="614000" />
       <workItem from="1526828463576" duration="319000" />
-      <workItem from="1527079005075" duration="641000" />
+      <workItem from="1527079005075" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="Naam">
       <created>1522134598659</created>
@@ -193,13 +184,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9968000" />
+    <option name="totallyTimeSpent" value="10021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="1420" height="812" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1429" height="812" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1471831" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1469559" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -486,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/intro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="156" lean-forward="true" selection-start-line="29" selection-start-column="156" selection-end-line="29" selection-end-column="156" />
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
