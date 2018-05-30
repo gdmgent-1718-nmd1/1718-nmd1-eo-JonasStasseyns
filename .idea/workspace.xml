@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/pages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/styleguide.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/styleguide.html" afterDir="false" />
     </list>
@@ -36,8 +35,8 @@
       <file leaf-file-name="styleguide.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/styleguide.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="522" selection-start-line="25" selection-start-column="522" selection-end-line="25" selection-end-column="522" />
+            <state relative-caret-position="495">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -45,8 +44,8 @@
       <file leaf-file-name="pages.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+            <state relative-caret-position="471">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -182,7 +181,7 @@
       <workItem from="1527151323979" duration="10000" />
       <workItem from="1527161490904" duration="962000" />
       <workItem from="1527328959971" duration="351000" />
-      <workItem from="1527677853154" duration="2452000" />
+      <workItem from="1527677853154" duration="3123000" />
     </task>
     <task id="LOCAL-00001" summary="Naam">
       <created>1522134598659</created>
@@ -216,7 +215,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18919000" />
+    <option name="totallyTimeSpent" value="19590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -541,15 +540,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/css/pages.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        <state relative-caret-position="471">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/styleguide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="522" selection-start-line="25" selection-start-column="522" selection-end-line="25" selection-end-column="522" />
+        <state relative-caret-position="495">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
         </state>
       </provider>
     </entry>

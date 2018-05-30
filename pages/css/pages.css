@@ -18,12 +18,26 @@ h1, h2 {
     font-variant: small-caps;
 }
 
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
 li {
     list-style: none;
+}
+
+.facebox {
+    box-shadow: 0px 0px 2px 0px #808080;
+    padding: 3%;
+    margin: 2% 0;
 }
 
 /* Voeg jouw css hieraan toe */
