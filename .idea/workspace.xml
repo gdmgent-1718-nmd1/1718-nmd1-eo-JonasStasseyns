@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/pages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/styleguide.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/styleguide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/scenarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/scenarios.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styleguide.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styleguide.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/styleguide.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
@@ -50,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scenarios.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scenarios.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/scenarios.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
+            <state relative-caret-position="435">
+              <caret line="29" column="300" selection-start-line="29" selection-start-column="300" selection-end-line="29" selection-end-column="300" />
             </state>
           </provider>
         </entry>
@@ -82,10 +81,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pages/concurrentie.html" />
-        <option value="$PROJECT_DIR$/pages/scenarios.html" />
         <option value="$PROJECT_DIR$/pages/intro.html" />
         <option value="$PROJECT_DIR$/pages/css/pages.css" />
         <option value="$PROJECT_DIR$/pages/styleguide.html" />
+        <option value="$PROJECT_DIR$/pages/scenarios.html" />
       </list>
     </option>
   </component>
@@ -181,7 +180,7 @@
       <workItem from="1527151323979" duration="10000" />
       <workItem from="1527161490904" duration="962000" />
       <workItem from="1527328959971" duration="351000" />
-      <workItem from="1527677853154" duration="3467000" />
+      <workItem from="1527677853154" duration="3803000" />
     </task>
     <task id="LOCAL-00001" summary="Naam">
       <created>1522134598659</created>
@@ -215,7 +214,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19934000" />
+    <option name="totallyTimeSpent" value="20270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -524,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/scenarios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/concurrentie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -549,6 +541,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="110" selection-start-line="37" selection-start-column="110" selection-end-line="37" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/scenarios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="300" selection-start-line="29" selection-start-column="300" selection-end-line="29" selection-end-column="300" />
         </state>
       </provider>
     </entry>
