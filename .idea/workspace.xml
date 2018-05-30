@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e4c3cb-128e-4844-ac51-409939db4c77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/css/pages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/styleguide.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/styleguide.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="styleguide.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/styleguide.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+            <state relative-caret-position="480">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -181,7 +180,7 @@
       <workItem from="1527151323979" duration="10000" />
       <workItem from="1527161490904" duration="962000" />
       <workItem from="1527328959971" duration="351000" />
-      <workItem from="1527677853154" duration="3123000" />
+      <workItem from="1527677853154" duration="3234000" />
     </task>
     <task id="LOCAL-00001" summary="Naam">
       <created>1522134598659</created>
@@ -215,7 +214,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19590000" />
+    <option name="totallyTimeSpent" value="19701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
@@ -547,8 +546,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/styleguide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        <state relative-caret-position="480">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
