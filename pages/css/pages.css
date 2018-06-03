@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-.clearfix:after {
+.test:after {
     visibility: hidden;
     display: block;
     font-size: 0;
@@ -8,10 +8,10 @@
     clear: both;
     height: 0;
 }
-.clearfix { display: inline-block; }
+.test { display: inline-block; }
 /* start commented backslash hack \*/
-* html .clearfix { height: 1%; }
-.clearfix { display: block; }
+* html .test { height: 1%; }
+.test { display: block; }
 /* close commented backslash hack */
 
 body {
